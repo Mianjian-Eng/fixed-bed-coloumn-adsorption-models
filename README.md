@@ -12,7 +12,7 @@ This repository contains a Python toolkit for analyzing breakthrough curves in f
 1. **Thomas Model:** Used to calculate the maximum solid-phase concentration ($q_0$) and rate constant ($k_{Th}$).
 2. **Yoon-Nelson Model:** Used to predict the time required for 50% adsorbate breakthrough ($\tau$).
 
-## 📦 How to Run
+## How to Run
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
